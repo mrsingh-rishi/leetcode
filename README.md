@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mrsingh-rishi/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mrsingh-rishi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0726-number-of-atoms](https://github.com/mrsingh-rishi/leetcode/tree/master/0726-number-of-atoms) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Union Find
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/mrsingh-rishi/leetcode/tree/master/0726-number-of-atoms) |
+## Counting
+|  |
+| ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
