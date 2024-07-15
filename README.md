@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mrsingh-rishi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mrsingh-rishi/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mrsingh-rishi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0726-number-of-atoms](https://github.com/mrsingh-rishi/leetcode/tree/master/0726-number-of-atoms) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mrsingh-rishi/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Union Find
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mrsingh-rishi/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
