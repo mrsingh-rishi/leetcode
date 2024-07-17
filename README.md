@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mrsingh-rishi/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mrsingh-rishi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2685-first-completely-painted-row-or-column](https://github.com/mrsingh-rishi/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mrsingh-rishi/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mrsingh-rishi/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mrsingh-rishi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2685-first-completely-painted-row-or-column](https://github.com/mrsingh-rishi/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mrsingh-rishi/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Union Find
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/mrsingh-rishi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mrsingh-rishi/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Matrix
+|  |
+| ------- |
+| [2685-first-completely-painted-row-or-column](https://github.com/mrsingh-rishi/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 <!---LeetCode Topics End-->
