@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mrsingh-rishi/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/mrsingh-rishi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mrsingh-rishi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mrsingh-rishi/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -84,5 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/mrsingh-rishi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mrsingh-rishi/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/mrsingh-rishi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/mrsingh-rishi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
