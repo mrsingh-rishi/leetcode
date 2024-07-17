@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mrsingh-rishi/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1207-delete-nodes-and-return-forest](https://github.com/mrsingh-rishi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mrsingh-rishi/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mrsingh-rishi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mrsingh-rishi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0726-number-of-atoms](https://github.com/mrsingh-rishi/leetcode/tree/master/0726-number-of-atoms) |
+| [1207-delete-nodes-and-return-forest](https://github.com/mrsingh-rishi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mrsingh-rishi/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mrsingh-rishi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -59,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/mrsingh-rishi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mrsingh-rishi/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mrsingh-rishi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/mrsingh-rishi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mrsingh-rishi/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mrsingh-rishi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Greedy
@@ -73,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/mrsingh-rishi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mrsingh-rishi/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
