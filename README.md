@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mrsingh-rishi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mrsingh-rishi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/mrsingh-rishi/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0554-brick-wall](https://github.com/mrsingh-rishi/leetcode/tree/master/0554-brick-wall) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mrsingh-rishi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mrsingh-rishi/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mrsingh-rishi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0523-continuous-subarray-sum](https://github.com/mrsingh-rishi/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0554-brick-wall](https://github.com/mrsingh-rishi/leetcode/tree/master/0554-brick-wall) |
 | [0726-number-of-atoms](https://github.com/mrsingh-rishi/leetcode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mrsingh-rishi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
