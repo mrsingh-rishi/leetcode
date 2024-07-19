@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mrsingh-rishi/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/mrsingh-rishi/leetcode/tree/master/0554-brick-wall) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mrsingh-rishi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/mrsingh-rishi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mrsingh-rishi/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mrsingh-rishi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/mrsingh-rishi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/mrsingh-rishi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mrsingh-rishi/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Design
 |  |
