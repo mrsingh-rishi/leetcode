@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mrsingh-rishi/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mrsingh-rishi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/mrsingh-rishi/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mrsingh-rishi/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mrsingh-rishi/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/mrsingh-rishi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mrsingh-rishi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mrsingh-rishi/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/mrsingh-rishi/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mrsingh-rishi/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Design
 |  |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/mrsingh-rishi/leetcode/tree/master/0523-continuous-subarray-sum) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/mrsingh-rishi/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/mrsingh-rishi/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
