@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/mrsingh-rishi/leetcode/tree/master/0726-number-of-atoms) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/mrsingh-rishi/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mrsingh-rishi/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mrsingh-rishi/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mrsingh-rishi/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/mrsingh-rishi/leetcode/tree/master/0726-number-of-atoms) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/mrsingh-rishi/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mrsingh-rishi/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/mrsingh-rishi/leetcode/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/mrsingh-rishi/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Shortest Path
 |  |
 | ------- |
