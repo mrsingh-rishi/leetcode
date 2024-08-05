@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mrsingh-rishi/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mrsingh-rishi/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/mrsingh-rishi/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mrsingh-rishi/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mrsingh-rishi/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mrsingh-rishi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mrsingh-rishi/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mrsingh-rishi/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/mrsingh-rishi/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mrsingh-rishi/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mrsingh-rishi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mrsingh-rishi/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0726-number-of-atoms](https://github.com/mrsingh-rishi/leetcode/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mrsingh-rishi/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/mrsingh-rishi/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mrsingh-rishi/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mrsingh-rishi/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2727-number-of-senior-citizens](https://github.com/mrsingh-rishi/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mrsingh-rishi/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/mrsingh-rishi/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mrsingh-rishi/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Bit Manipulation
 |  |
