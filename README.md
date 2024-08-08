@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/mrsingh-rishi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/mrsingh-rishi/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/mrsingh-rishi/leetcode/tree/master/0554-brick-wall) |
+| [0921-spiral-matrix-iii](https://github.com/mrsingh-rishi/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/mrsingh-rishi/leetcode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/mrsingh-rishi/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mrsingh-rishi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/mrsingh-rishi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0921-spiral-matrix-iii](https://github.com/mrsingh-rishi/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mrsingh-rishi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mrsingh-rishi/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mrsingh-rishi/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/mrsingh-rishi/leetcode/tree/master/0273-integer-to-english-words) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/mrsingh-rishi/leetcode/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
